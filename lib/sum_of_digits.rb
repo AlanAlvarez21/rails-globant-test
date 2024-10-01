@@ -6,4 +6,3 @@ class SumOfDigits
       number
     end
 end
-  
